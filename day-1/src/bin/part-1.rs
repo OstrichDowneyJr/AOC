@@ -8,7 +8,6 @@ fn part1(input: &str) -> String {
     "todo!()".to_string()
 }
 
-//test commmit if i had remove wrong user on git
 #[cfg(test)]
 mod tests {
     use super::*;
